@@ -8,7 +8,7 @@ namespace Util
         /// <summary>
         /// 默认log实例
         /// </summary>
-        private static ILog LOG = LogManager.GetLogger("Console");
+        private static ILog LOG = LogManager.GetLogger("ALL");
 
         /// <summary>
         /// 默认控制台logger debug
